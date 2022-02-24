@@ -1,4 +1,3 @@
-# finish EX1
 # msd-2022-spring-cs477-homework1
 # Lab 1
 ## Exercise 1
